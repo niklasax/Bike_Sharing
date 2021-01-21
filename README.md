@@ -6,8 +6,6 @@ The purpose of this analysis was to gain familiarity with the visualization soft
 
 ## Results
 
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-
 ![](https://github.com/niklasax/bikesharing/blob/main/Checkout_Times.png)
 
 Result: Overall, the most common trip duration is between 4 and 6 hours
