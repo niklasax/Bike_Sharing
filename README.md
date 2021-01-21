@@ -11,7 +11,13 @@ Results: Using the visualizations you have in your Tableau Story, describe the r
 
 ![](https://github.com/niklasax/bikesharing/blob/main/Checkout_Times.png)
 
+Result: The most common trip duration is between 4 and 6 hours
+
+
 ![](https://github.com/niklasax/bikesharing/blob/main/Checkout_Times_Gender.png)
+
+
+Result: Broken out by Gender, 
 
 ![](https://github.com/niklasax/bikesharing/blob/main/Bike_Trips.png)
 
