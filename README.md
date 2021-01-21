@@ -33,6 +33,6 @@ In summary, we can tell from our Citibike data that the average user is Male, a 
 
 Two additional vizualizations to perform:
 
-1.)
+1.) Trip duration vs. user type
 
-2.)
+2.) Age vs. Day of the week
