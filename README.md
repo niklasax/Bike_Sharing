@@ -1,10 +1,10 @@
-# bikesharing
+# Bike Sharing
 
-Overview of the analysis: 
+## Overview of the analysis: 
 
 The purpose of this analysis was to gain familiarity with the visualization software, Tableau. To do this, we analyzed New York Citibike data to gain some insight on the user base.
 
-
+## Results
 
 Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
@@ -29,4 +29,12 @@ Result: Broken out my Gender, Male and Female show same riding patterns but Men 
 
 Result: Male subscribers are the most common gender/usertype and the most popular day to ride is Thursday.
 
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+In summary, we can tell from our Citibike data that the average user is Male, a subscriber to the service, will likely have a 4-6hrs ride duration and will most likely be riding on a Thursday.
+
+Two additional vizualizations to perform:
+
+1.)
+
+2.)
