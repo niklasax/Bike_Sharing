@@ -4,6 +4,8 @@
 
 The purpose of this analysis was to gain familiarity with the visualization software, Tableau. To do this, we analyzed New York Citibike data to gain some insight on the user base.
 
+[link to dashboard](https://public.tableau.com/profile/nik6051#!/vizhome/NYC_Citibike_Challenge_16112489841900/Story1?publish=yes)
+
 ## Results
 
 ![](https://github.com/niklasax/bikesharing/blob/main/Checkout_Times.png)
