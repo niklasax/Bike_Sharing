@@ -1,6 +1,6 @@
 # Bike Sharing
 
-## Overview of the analysis: 
+## Overview of the Analysis: 
 
 The purpose of this analysis was to gain familiarity with the visualization software, Tableau. To do this, we analyzed New York Citibike data to gain some insight on the user base.
 
