@@ -1,6 +1,5 @@
 # bikesharing
 
-In your README markdown file, include the following:
 Overview of the analysis: 
 
 The purpose of this analysis was to gain familiarity with the visualization software, Tableau. To do this, we analyzed New York Citibike data to gain some insight on the user base.
@@ -28,6 +27,6 @@ Result: Broken out my Gender, Male and Female show same riding patterns but Men 
 
 ![](https://github.com/niklasax/bikesharing/blob/main/Usertrips_Gender.png)
 
-
+Result: Male subscribers are the most common gender/usertype and the most popular day to ride is Thursday.
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
